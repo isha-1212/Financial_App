@@ -1,5 +1,4 @@
 ﻿# Financial_App
 
-<img width="1025" height="646" alt="image" src="https://github.com/user-attachments/assets/535b5db4-9dd7-449d-9c48-c6250c6c990f" />
-<img width="622" height="643" alt="image" src="https://github.com/user-attachments/assets/47245ba4-a2d3-451a-bdab-c4d61b252d15" />
-
+<img width="241" height="488" alt="image" src="https://github.com/user-attachments/assets/cb19dd12-f68a-4d74-bcc7-7b46f7291a30" />
+<img width="233" height="487" alt="image" src="https://github.com/user-attachments/assets/9bf4babc-577d-4dbb-ade6-984ca1d78063" />
